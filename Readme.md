@@ -1,2 +1,3 @@
 SCAMCOIN
-It is not even a coin
+
+Not even a coin
